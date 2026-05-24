@@ -4,8 +4,8 @@
 
 > 간단한 한 줄 소개 – 프로젝트의 핵심 가치 또는 기능
 
-[![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)]()
-[![Xcode](https://img.shields.io/badge/Xcode-16.0-blue.svg)]()
+[![Swift](https://img.shields.io/badge/Swift-6.2-orange.svg)]()
+[![Xcode](https://img.shields.io/badge/Xcode-26.5-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 ---
@@ -37,8 +37,8 @@
 ## 🤔 요구사항
 For building and running the application you need:
 
-iOS 26.0 <br>
-Xcode 26 <br>
+iOS 26.5 <br>
+Xcode 26.5 <br>
 Swift 6.2
 
 <br>
@@ -117,7 +117,7 @@ Swift 6.2
 ### ✅ PR 예시 모음
 > 🎉 [Chore] 프로젝트 초기 세팅 <br>
 > ✨ [Feat] 프로필 화면 UI 구현 <br>
-> 🐛 [Fix] iOS 17에서 버튼 클릭 오류 수정 <br>
+> 🐛 [Fix] iOS 26에서 버튼 클릭 오류 수정 <br>
 > 💄 [Design] 로그인 화면 레이아웃 조정 <br>
 > 📝 [Docs] README에 프로젝트 소개 추가 <br>
 
@@ -156,7 +156,7 @@ Swift 6.2
 ### ✅ 커밋 예시 모음
 > 🎉 [Chore] 프로젝트 초기 세팅 <br>
 > ✨ [Feat] 프로필 화면 UI 구현 <br>
-> 🐛 [Fix] iOS 17에서 버튼 클릭 오류 수정 <br>
+> 🐛 [Fix] iOS 26에서 버튼 클릭 오류 수정 <br>
 > 💄 [Design] 로그인 화면 레이아웃 조정 <br>
 > 📝 [Docs] README에 프로젝트 소개 추가 <br>
 
